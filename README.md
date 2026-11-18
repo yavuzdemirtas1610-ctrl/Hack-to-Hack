@@ -1,2 +1,0 @@
-# Hack-to-Hack
-Hack
